@@ -9,12 +9,25 @@
 - **Comprehensive Knowledge Base**: Offers accurate, relevant information about BabyDoge Coin to cater to beginners, enthusiasts, and the wider crypto community.
 - **Meme Creation**: Randomly generates BabyDoge-themed memes on demand, helping the community engage and promote BabyDoge Coin effectively.
 - **Fun, Engaging Style**: Responds to questions in a lighthearted Doge-inspired manner while maintaining accuracy and professionalism.
+- **Blockchain Integration**: Explore blockchain analytics directly to showcase BabyDoge's on-chain metrics, real-time data about the $babydoge coin.
 - **Alignment with Hackathon Challenge**: Directly aligns with the "BabyDoge Project" challenge by using creative means to drive interest in BabyDoge Coin.
+
+## Usage
+
+### Live Hosted demo of BabyDoge-GPT
+
+[Full Version]()
+[Popup Version]()
+
+- **Chat Interface:** Access the chatbot via the web UI and ask any BabyDoge-related questions. You can also request a meme to share on social media.
+- **Speech Input:** Enable voice recognition to interact with BabyDoge-GPT using natural speech.
+- **Custom Memes:** Experiment with different meme prompts and see the assistant generate random BabyDoge memes.
+
 
 ## Tech Stack
 
 - **OpenAI Assistant APIs**: Powers the natural language processing abilities to deliver accurate responses and maintain a conversational style with (function calling, code interpreter, and file search).
-- **FlowiseAI**: Enables visual programming to streamline the development of conversational workflows.
+- **FlowiseAI**: Enables visual programming to streamline the development of conversational AI workflows.
 - **Next.js, TypeScript, TailwindCSS**: Provides a seamless, dynamic user interface with a consistent design.
 - **OpenAI GPT-3.5 Turbo and Moderation APIs**: Handles advanced chatbot responses and content moderation.
 - **Google Custom Search API**: Allows the chatbot to fetch relevant information online to provide up-to-date answers.
@@ -22,36 +35,15 @@
 - **OpenAI Whisper API for Speech-to-Text**: Supports speech recognition to deliver a multi-modal experience.
 - **LangSmith API for Chatbot Analysis**: Analyzes chatbot interactions for optimization and refinement.
 
-## Installation and Setup
+## Potential Integration
 
-1. **Clone the Repository:**
+I have build two version of the BabyDoge-GPT, both have the same functionalites but one chatbot fix in the full viewport of the screen and another one is the pop-up version, both have same instances and build with APIs, these chatbot's can-be integrated into anywhere either on the complete subdomain of official baby-doge website or the website but with the popup version, but I don't know what the team thinks about it.
 
-    ```bash
-    git clone https://github.com/asharibali/babydoge-gpt.git
-    ```
-
-2. **Install Dependencies:**
-    Navigate to the project directory and install the required packages.
-
-    ```bash
-    cd babydoge-gpt
-    npm install
-    ```
-
-3. **Start the Development Server:**
-
-    ```bash
-    npm run dev
-    ```
-
-## Usage
-
-- **Chat Interface:** Access the chatbot via the web UI and ask any BabyDoge-related questions. You can also request a meme to share on social media.
-- **Speech Input:** Enable voice recognition to interact with BabyDoge-GPT using natural speech.
-- **Custom Memes:** Experiment with different meme prompts and see the assistant generate random BabyDoge memes.
+- **[BabyDoge-GPT Full Version CodeBase](./BabyDogeGPT-Full%20version/)**
+- **[BabyDoge-GPT Popup Version CodeBase](./BabyDogeGPT-Popup%20version/)**
 
 ## Future Improvements
 
-- **Expanded Knowledge Base**: Integrate with more BabyDoge resources and provide further comprehensive insights.
-- **Community Collaboration**: Allow community members to contribute their memes and data for better personalization.
-- **Blockchain Integration**: Explore incorporating blockchain analytics directly to showcase BabyDoge's on-chain metrics.
+- **Expanded Knowledge Base**: Integrate with additional BabyDoge resources to provide more comprehensive insights.
+- **Community Analytics:** Access real-time community sentiment about the project through metrics from X and other social platforms.
+- **On-Chain AI Swap:** Swap your BabyDoge tokens directly using a simple prompt.
