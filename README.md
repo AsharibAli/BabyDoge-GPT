@@ -1,5 +1,14 @@
 # BabyDoge-GPT
 
+(This project is a submission to the BNB Chain Hackathon💎)
+
+<br>
+<p style="text-align: center" align="center">
+<a href="https://ibb.co/m4pPBCS"><img src="https://i.ibb.co/m4pPBCS/hackathon.png" alt="hackathon" border="0"></a>
+<div align="center">✨ BabyDogeGPT 🔥</p>
+</div>
+<br>
+
 ## Project Overview
 
 **BabyDoge-GPT** is an intelligent, meme-centric AI chatbot designed to provide comprehensive insights into the BabyDoge Coin project while maintaining a fun, engaging tone. Developed as a submission for the "BNB Chain Hackathon 2024 Q2: OneBNB - Coding the Future" competition under the "BabyDoge Project" challenge, this assistant specializes in delivering accurate BabyDoge Coin information and curating playful memes in the unmistakable Doge style. It aims to help community members better understand and promote BabyDoge Coin in a way that generates enthusiasm and hype across social media.
