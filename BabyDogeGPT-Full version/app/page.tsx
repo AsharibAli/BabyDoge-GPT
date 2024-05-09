@@ -1,7 +1,7 @@
 "use client";
 import React, { useEffect } from "react";
 
-const FlowiseChatbot = () => {
+const BabyDogeGPT = () => {
   useEffect(() => {
     // Check if the script is already loaded
     if (
@@ -69,4 +69,4 @@ const FlowiseChatbot = () => {
   );
 };
 
-export default FlowiseChatbot;
+export default BabyDogeGPT;

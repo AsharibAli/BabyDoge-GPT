@@ -1,7 +1,7 @@
 "use client";
 import { useEffect } from "react";
 
-const FlowiseChatbot = () => {
+const BabyDogeGPT = () => {
   useEffect(() => {
     // Create a script element
     const script = document.createElement("script");
@@ -58,4 +58,4 @@ const FlowiseChatbot = () => {
   }, []);
 };
 
-export default FlowiseChatbot;
+export default BabyDogeGPT;
