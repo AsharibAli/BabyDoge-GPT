@@ -14,11 +14,6 @@
 
 ## Usage
 
-### Live Hosted demo of BabyDoge-GPT
-
-[Full Version]()
-[Popup Version]()
-
 - **Chat Interface:** Access the chatbot via the web UI and ask any BabyDoge-related questions. You can also request a meme to share on social media.
 - **Speech Input:** Enable voice recognition to interact with BabyDoge-GPT using natural speech.
 - **Custom Memes:** Experiment with different meme prompts and see the assistant generate random BabyDoge memes.
@@ -41,6 +36,12 @@ I have build two version of the BabyDoge-GPT, both have the same functionalites 
 
 - **[BabyDoge-GPT Full Version CodeBase](./BabyDogeGPT-Full%20version/)**
 - **[BabyDoge-GPT Popup Version CodeBase](./BabyDogeGPT-Popup%20version/)**
+
+### Live Hosted demo of BabyDoge-GPT
+
+[Full Version](https://babydogegpt.vercel.app/)
+[Popup Version](https://babydogegpt-popup.vercel.app/)
+
 
 ## Future Improvements
 
