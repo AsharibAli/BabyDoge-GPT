@@ -1,4 +1,4 @@
-# BabyDoge-GPT
+# BabyDoge-GPT - Smart AI Assistant 🤖
 
 (This project is a submission to the BNB Chain Hackathon💎)
 
@@ -48,8 +48,8 @@ I have build two version of the BabyDoge-GPT, both have the same functionalites 
 
 ### Live Hosted demo of BabyDoge-GPT
 
-[Full Version](https://babydogegpt.vercel.app/) <br>
-[Popup Version](https://babydogegpt-popup.vercel.app/)
+➡️ [Full Version](https://babydogegpt.vercel.app/) <br>
+➡️ [Popup Version](https://babydogegpt-popup.vercel.app/)
 
 
 ## Future Improvements
