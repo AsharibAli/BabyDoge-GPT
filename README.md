@@ -1,4 +1,4 @@
-# BabyDoge-GPT - Smart AI Assistant 🤖
+# BabyDoge-GPT - Smart AI Assistant for BabyDoge Community 🤖
 
 (This project is a submission to the BNB Chain Hackathon💎)
 
