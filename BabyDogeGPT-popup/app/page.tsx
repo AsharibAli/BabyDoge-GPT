@@ -26,7 +26,7 @@ const BabyDogeGPT = () => {
           poweredByTextColor: "#000000",
           botMessage: {
             backgroundColor: "#d17e11",
-            textColor: "#000000",
+            textColor: "#ffffff",
             showAvatar: true,
             avatarSrc:
               "https://raw.githubusercontent.com/AsharibAli/project-images/main/baby-doge.png",
