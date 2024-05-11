@@ -4,7 +4,7 @@
 
 <br>
 <p style="text-align: center" align="center">
-<a href="https://ibb.co/m4pPBCS"><img src="https://i.ibb.co/m4pPBCS/hackathon.png" alt="hackathon" border="0"></a>
+<a href="https://ibb.co/xX8Z7P1"><img src="https://i.ibb.co/0mV5G8C/hackathon.png" alt="hackathon" border="0"></a>
 <div align="center">✨ BabyDogeGPT 🔥</p>
 </div>
 <br>
