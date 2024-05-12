@@ -13,6 +13,15 @@
 
 **BabyDoge-GPT** is an intelligent, meme-centric AI chatbot designed to provide comprehensive insights into the BabyDoge Coin project while maintaining a fun, engaging tone. Developed as a submission for the "BNB Chain Hackathon 2024 Q2: OneBNB - Coding the Future" competition under the "BabyDoge Project" challenge, this assistant specializes in delivering accurate BabyDoge Coin information and curating playful memes in the unmistakable Doge style. It aims to help community members better understand and promote BabyDoge Coin in a way that generates enthusiasm and hype across social media.
 
+## Problem Statement
+
+The BabyDoge community often struggles to create appropriate meme-like text content that fits the Baby Doge theme for crypto-related topics and events, and there's no central point to engage and understand the project in a unique and simple way. 
+
+To address this, we offer three key services:
+1. We help the community create engaging and humorous memes about BabyDoge Coin. This support is vital for a meme-centric project, as both textual and visual memes are essential for promoting BabyDoge Coin on social media, generating excitement, and encouraging coin purchases, which benefit the entire community. Provide the prompt, and we'll handle the rest.
+2. We provide a comprehensive knowledge base about BabyDoge Coin, enabling newcomers and meme enthusiasts to learn about the project and its features through a conversational user interface (CUI). 
+3. Live on-chain data about the project, like current price, market cap, etc.
+
 ## Benefits and Features
 
 - **Comprehensive Knowledge Base**: Offers accurate, relevant information about BabyDoge Coin to cater to beginners, enthusiasts, and the wider crypto community.
