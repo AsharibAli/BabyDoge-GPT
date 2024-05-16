@@ -39,6 +39,8 @@
 - **OpenAI Whisper API for Speech-to-Text**: Supports speech recognition to deliver a multi-modal experience.
 - **LangSmith API for Chatbot Analysis**: Analyzes chatbot interactions for optimization and refinement.
 
+![BabyDogeGPT](BabyDogeGPT.png)
+
 ## Potential Integration
 
 I have build two version of the BabyDoge-GPT, both have the same functionalites but one chatbot fix in the full viewport of the screen and another one is the pop-up version, both have same instances and build with APIs, these chatbot's can-be integrated into anywhere either on the complete subdomain of official baby-doge website or the website but with the popup version, but I don't know what the team thinks about it.
