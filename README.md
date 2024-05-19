@@ -42,7 +42,7 @@ To address this, we offer three key services:
 - **OpenAI Assistant APIs**: Powers the natural language processing abilities to deliver accurate responses and maintain a conversational style with (function calling, code interpreter, and file search).
 - **FlowiseAI**: Enables visual programming to streamline the development of conversational AI workflows.
 - **Next.js, TypeScript, TailwindCSS**: Provides a seamless, dynamic user interface with a consistent design.
-- **OpenAI GPT-3.5 Turbo and Moderation APIs**: Handles advanced chatbot responses and content moderation.
+- **OpenAI GPT-4o and Moderation APIs**: Handles advanced chatbot responses and content moderation.
 - **Google Custom Search API**: Allows the chatbot to fetch relevant information online to provide up-to-date answers.
 - **Custom Training Data with Prompt Engineering**: Ensures precise responses through well-crafted prompts and curated data.
 - **OpenAI Whisper API for Speech-to-Text**: Supports speech recognition to deliver a multi-modal experience.
