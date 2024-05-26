@@ -23,7 +23,6 @@ const BabyDogeGPT = () => {
             "Welcome to the BabyDoge-GPT! I'm here to assist you with any questions you have about the BabyDoge in a Doge fun way ≽^•⩊•^≼",
           backgroundColor: "#ffffff",
           fontSize: 16,
-          poweredByTextColor: "#000000",
           botMessage: {
             backgroundColor: "#d17e11",
             textColor: "#ffffff",
@@ -43,6 +42,15 @@ const BabyDogeGPT = () => {
             backgroundColor: "#ffffff",
             textColor: "#000000",
             sendButtonColor: "#d17e11",
+          },
+          feedback: {
+            color: "#d17e11",
+          },
+          footer: {
+            textColor: "#000000",
+            text: "Build with ❤️ by",
+            company: "Asharib Ali",
+            companyLink: "https://github.com/AsharibAli/",
           },
         },
       },
