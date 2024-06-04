@@ -18,9 +18,9 @@
 The BabyDoge community often struggles to create appropriate meme-like text content that fits the Baby Doge theme for crypto-related topics and events, and there's no central point to engage and understand the project in a unique and simple way. 
 
 To address this, we offer three key services:
-1. We help the community create engaging and humorous memes about BabyDoge Coin. This support is vital for a meme-centric project, as both textual and visual memes are essential for promoting BabyDoge Coin on social media, generating excitement, and encouraging coin purchases, which benefit the entire community. Provide the prompt, and we'll handle the rest.
-2. We provide a comprehensive knowledge base about BabyDoge Coin, enabling newcomers and meme enthusiasts to learn about the project and its features through a conversational user interface (CUI). 
-3. Live on-chain data about the project, like current price, market cap, etc.
+1. We help the community create engaging and humorous memes about BabyDoge Coin. This support is vital for a meme-centric project, as both textual and visual memes are essential for promoting BabyDoge Coin on social media, generating excitement, and encouraging coin purchases, which benefit the entire community. Provide the prompt, and we'll handle the rest.<br>
+2. We provide a comprehensive knowledge base about BabyDoge Coin, enabling newcomers and meme enthusiasts to learn about the project and its features through a conversational user interface (CUI). <br>
+3. Live on-chain data about the project, like current price, market cap, etc.<br>
 
 ## Benefits and Features
 
