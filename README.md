@@ -30,6 +30,22 @@ To address this, we offer three key services:
 - **Blockchain Integration**: Explore blockchain analytics directly to showcase BabyDoge's on-chain metrics, real-time data about the $babydoge coin.
 - **Alignment with Hackathon Challenge**: Directly aligns with the "BabyDoge Project" challenge by using creative means to drive interest in BabyDoge Coin.
 
+## Features
+
+🎯 Personalized answers for community. <br>
+🕒 Real-time updates from Internet. <br>
+👨‍💻 Chat via CUI (Conversational User Interface). <br>
+🎤 Voice functionality for easy interaction. <br>
+👍 Provide Feedback. <br>
+☑️12 Limit Messages per 24 hours. <br>
+
+## Benefits
+
+🌟 Enhances user experience. <br>
+📰 Keeps the BabyDoge community informed. <br>
+🌐 Makes BabyDoge more accessible. <br>
+📈 Fosters greater engagement and project development. <br>
+
 ## Usage
 
 - **Chat Interface:** Access the chatbot via the web UI and ask any BabyDoge-related questions. You can also request a meme to share on social media.
@@ -48,7 +64,15 @@ To address this, we offer three key services:
 - **OpenAI Whisper API for Speech-to-Text**: Supports speech recognition to deliver a multi-modal experience.
 - **LangSmith API for Chatbot Analysis**: Analyzes chatbot interactions for optimization and refinement.
 
+**=> How Everything is Connected? (FlowChart)**
+
+- [Flowise Github Repositry](https://github.com/AsharibAli/flowise) (Deployed on Render & Connected to Chatbot UI via APIs programmatically).
+- [FlowiseChatEmbed Github Repositry](https://github.com/AsharibAli/FlowiseChatEmbed) (UI/UX of Chatbot, Connected via CDN)
+
 ![BabyDogeGPT](BabyDogeGPT.png)
+
+**=> (Behind the Scene) Flowise Flow Of BabyDoge-GPT**
+![Flowise Flow of BabyDogeGPT](./flowise-flow.png)
 
 ## Potential Integration
 
