@@ -6,7 +6,7 @@ const BabyDogeGPT = () => {
     // Create a script element
     const script = document.createElement("script");
     script.type = "module";
-    script.innerHTML = `import Chatbot from "https://cdn.jsdelivr.net/gh/AsharibAli/FlowiseChatEmbed@latest/dist/web.js"
+    script.innerHTML = `import Chatbot from "https://cdn.jsdelivr.net/npm/flowise-embed/dist/web.js"
     Chatbot.init({
       chatflowid: "9cd49160-39d1-458f-8989-01d02b9dca2c",
       apiHost: "https://flowise-r1c3.onrender.com",
